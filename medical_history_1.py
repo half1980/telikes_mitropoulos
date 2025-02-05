@@ -959,4 +959,7 @@ class AuthenticationSystem:
             return patient.get_medical_history(password)
         else:
             raise ValueError("Patient not found.")
+'''
+ALLAGES GIA THN EKSETASH
 
+'''
